@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-spinners/static/css/main.71ca9613.chunk.css",
+    "main.js": "/react-spinners/static/js/main.b4aeadd2.chunk.js",
+    "main.js.map": "/react-spinners/static/js/main.b4aeadd2.chunk.js.map",
+    "runtime-main.js": "/react-spinners/static/js/runtime-main.b2cfe56b.js",
+    "runtime-main.js.map": "/react-spinners/static/js/runtime-main.b2cfe56b.js.map",
+    "static/js/2.ee76aa8b.chunk.js": "/react-spinners/static/js/2.ee76aa8b.chunk.js",
+    "static/js/2.ee76aa8b.chunk.js.map": "/react-spinners/static/js/2.ee76aa8b.chunk.js.map",
+    "index.html": "/react-spinners/index.html",
+    "precache-manifest.6ea4b7f9ab46327ba74c51e6505d314e.js": "/react-spinners/precache-manifest.6ea4b7f9ab46327ba74c51e6505d314e.js",
+    "service-worker.js": "/react-spinners/service-worker.js",
+    "static/css/main.71ca9613.chunk.css.map": "/react-spinners/static/css/main.71ca9613.chunk.css.map",
+    "static/js/2.ee76aa8b.chunk.js.LICENSE.txt": "/react-spinners/static/js/2.ee76aa8b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b2cfe56b.js",
+    "static/js/2.ee76aa8b.chunk.js",
+    "static/css/main.71ca9613.chunk.css",
+    "static/js/main.b4aeadd2.chunk.js"
+  ]
+}
